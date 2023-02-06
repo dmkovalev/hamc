@@ -9,7 +9,7 @@ Faculty of Computational Mathematics and Cybernetics, Moscow State University
  
  > **M. Brodie:** *Yet there is a potential Big Data Winter ahead if people blindly apply Big Data and more specifically machine learning.*
 
- > **Causal Machine Learning for Real-World Impact:** *Causality has a long history, providing it with many principled approaches to identify a causal effect (or even distill cause from effect). However, these approaches are often restricted to very specific situations, requiring very specific assumptions. This contrasts heavily with recent advances in machine learning. Real-world problems aren’t granted the luxury of making strict assumptions, yet still require causal thinking to solve. Armed with the rigor of causality, and the can-do-attitude of machine learning, we believe the time is ripe to start working towards solving real-world problems.*
+ > **[Causal Machine Learning for Real-World Impact:](https://nips.cc/virtual/2022/workshop/49992)** *Causality has a long history, providing it with many principled approaches to identify a causal effect (or even distill cause from effect). However, these approaches are often restricted to very specific situations, requiring very specific assumptions. This contrasts heavily with recent advances in machine learning. Real-world problems aren’t granted the luxury of making strict assumptions, yet still require causal thinking to solve. Armed with the rigor of causality, and the can-do-attitude of machine learning, we believe the time is ripe to start working towards solving real-world problems.*
 
 ## Course overview
 This is one term course, which provides a survey of the theory and application of methods to work with hypotheses and models in data intensive domains. Topics covered include overview of different approaches to hypotheses and models formulation, representation, tests, logic and probabilistic inference, model quality assessment.
@@ -44,3 +44,7 @@ TBD
 
 ## Course Materials
 This repository contains lectures and homeworks for @hamc2023. It will be updated as the class progresses.
+
+| Week | Lecture notes | Supplementary materials | Homework | Tests |
+|:------:|:----------|:----------|:----------|-------|
+|1| [Introduction](./lectures/intro.pdf) <br> [Hypothesis-driven approach](./lectures/hamc2023_did_investigation.pdf)| [M. Jordan about AI revolution](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) <br> [J. Gray. Fourth Paradigm](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/) <br> [M. Brodie. Understanding Data Science](https://www.researchgate.net/publication/285586313_Understanding_Data_Science_An_Emerging_Discipline_for_Data-Intensive_Discovery) <br> [L. Kalinichenko. Methods and Tools for Hypothesis-Driven Research Support](http://synthesis.ipi.ac.ru/synthesis/staff/dmkovalev/15ia-hypoth.pdf)|||
