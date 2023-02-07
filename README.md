@@ -26,9 +26,8 @@ This course is part of a sequence of courses on Big Data track and is taught for
 - 4 hour per week - homeworks
 
 ## Assessment
-- 40% - Final Oral Exam
-- 30% - Class tests
-- 30% - Homeworks
+- 50% - Final Oral Exam
+- 50% - Homeworks
 
 grade
 5: 80 - 100%; 
