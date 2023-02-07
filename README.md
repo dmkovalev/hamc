@@ -1,7 +1,7 @@
 # Hypotheses and Models in Data Intensive Domains Course, @hamc2023, Masters 1/2
 Faculty of Computational Mathematics and Cybernetics, Moscow State University
 
-**Classes: Tuesday, 17.00 - 20.00, room 579**
+**Classes: Tuesday, 17.00 - 18.20, room 579**
 
   > **M. Jordan:** *... current focus on doing AI research via the gathering of data, the deployment of “deep learning” infrastructure, and the demonstration of systems that mimic certain narrowly-defined human skills — with little in the way of emerging explanatory principles —  tends to deflect attention from major open problems in classical AI. These problems include the need to bring meaning and reasoning into systems that perform natural language processing, the need to infer and represent causality, the need to develop computationally-tractable representations of uncertainty and the need to develop systems that formulate and pursue long-term goals. These are classical goals in human-imitative AI, but in the current hubbub over the “AI revolution,” it is easy to forget that they are not yet solved.*
 
