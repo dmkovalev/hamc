@@ -8,3 +8,4 @@
 3. In which way mutual information is used in the algorithm design?
 4. Explain in simple words what is structural causal model.
 5. How can one interpret weights on the edges of the graph?
+6. What are the advantages of proposed algorithms compared to related works?
