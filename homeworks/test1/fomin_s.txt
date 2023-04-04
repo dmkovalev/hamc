@@ -1,0 +1,29 @@
+Sergey Fomin 631
+1. Which assumptions are made for causal discovery?
+Assumption 1 (Causal Sufficiency): There are no hidden confounders, and all the random variables of interest are observable. Assumption 2
+(Finite Samples): There is a finite number of observational/interventional samples available. Assumption 3 (Nonlinear SCM with Additive Noise):
+The structural causal model has nonlinear conditional expectations with additive Gaussian noise. Assumption 4 (Single Target): Each
+intervention is atomic and applied to a single target of the SCM
+
+2. How does causal bayesian network and structural causal model relate to each other?
+A specific type of structural causal model is a causal Bayesian network, which displays the causal connections between variables as a directed
+acyclic graph. The set of equations in an SCM represents conditional distributions in a causal Bayesian network.
+
+3. In which way mutual information is used in the algorithm design?
+Mutual information is employed in the algorithm's design to assess the strength of links between variables and to identify potential edges for
+constructing the causal graph. A higher mutual information implies a better outcome, and the DAG is improved by maximizing it, similar to loss
+functions in ML.
+
+4. Explain in simple words what is structural causal model.
+A structural causal model is a mathematical model that specifies how the variables in a system are causally interconnected. Each variable's
+value is determined by its immediate causes and an independent noise variable. The SCM is a graphical model represented as a DAG, where
+each node is a variable in U or V, and each edge determines V's values based on the values in U.
+
+5. How can one interpret weights on the edges of the graph?
+The edges' weights represent the causal relationships' strength and direction among the variables. Positive weights denote positive influences,
+while negative weights indicate negative impacts.
+
+6. What are the advantages of proposed algorithms compared to related works?
+The proposed algorithms have several advantages, including their ability to handle nonlinear relationships, identify latent variables, and
+incorporate previous knowledge about causal links. Compared to existing state-of-the-art methods, they also have higher efficiency and
+accuracy.

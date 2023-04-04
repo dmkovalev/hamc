@@ -1,0 +1,39 @@
+Which assumptions are made for causal discovery?
+
+
+Assumption 1 (Causal Sufficiency). There are no hidden confounders, and all the random variables of interest are observable.
+Assumption 2 (Finite Samples). There is a finite number of observational/interventional samples available.
+Assumption 3 (Nonlinear SCM with Additive Noise). The structural causal model has nonlinear conditional expectations with additive Gaussian noise.
+Assumption 4 (Single Target). Each intervention is atomic and applied to a single target of the SCM
+
+
+How does causal bayesian network and structural causal model relate to each other?
+
+
+A SCM matches a set of equations which are representing the conditional distributions in a Causal Bayesian Network.
+
+
+In which way mutual information is used in the algorithm design?
+
+
+As I understood, the more MI the better. We improve our DAG by maximizing it (loss functions in ML is a good analogy).
+
+
+Explain in simple words what is structural causal model.
+
+
+SCM is a graphical model (DAG) where each node is a variable in U or V and each edge is a function that determines the values of the variables in V based on the values of the variables in U.
+
+
+How can one interpret weights on the edges of the graph?
+
+
+Weights in the edges of graphs represent the strength of the variable’s relationships. It can be positive and negative (just like the correlation).
+
+
+What are the advantages of proposed algorithms compared to related works?
+
+
+It’s compared to ABCD and AIT, citations:
+ABCD (Agrawal et al., 2019). “Soft-CBED is a faster and more efficient batch strategy, especially when values also have to be acquired. From this perspective, our approach is an extension of ABCD with nonlinear assumptions, value acquisition, and a soft top-k batching strategy.”
+AIT (Scherrer et al., 2021). “AIT does not select intervention values like ABCD and does not have a batch strategy.”
