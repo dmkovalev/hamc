@@ -52,6 +52,5 @@ This repository contains lectures and homeworks for @hamc2023. It will be update
 |5-6| Homework 1 and test 1|  | [homework2](./homeworks/test2_.ipynb)  <br> [hw2_results](./homeworks/hw1/hw1_results.md) | [test1_results](./homeworks/test1/test1_results.md) |
 |7| [Other approaches to model selection](./lectures/L04_metrics_scoring.ipynb) | | [hw1_results](./homeworks/hw2/hw2_results.md) | |
 |8| [Hypothesis representation: structures](./lectures/L05_hypothesis_repr.ipynb)| [Video lecture part 1](./supplementary/video1820715075.mp4) <br> [Video lecture part 2](./supplementary/video1943057871.mp4)  | | |
-|9| [Hypothesis representation: structures](./lectures/L05_hypothesis_repr.ipynb) | [Reusable mechanisms (lecture from 2021)](./supplementary/zoom_4.mp4) <br>
-[Causality (lecture from 2021)](./supplementary/zoom_2.mp4)  | | | 
+|9| [Hypothesis representation: structures](./lectures/L05_hypothesis_repr.ipynb) | [Reusable mechanisms (lecture from 2021)](./supplementary/zoom_4.mp4) <br> [Causality (lecture from 2021)](./supplementary/zoom_2.mp4)  | | | 
 |Exam| [Questions](./lectures/questions.md) | | | |
