@@ -50,7 +50,7 @@ This repository contains lectures and homeworks for @hamc2023. It will be update
 |2| [Statistics in DID: part 1](./lectures/L01_ham_statistics.ipynb) <br> [Statistics in DID: part 2](./lectures/L02_freq_bayes.ipynb) | [Video lecture from 2021](./supplementary/statistics_2021_course.mp4) <br> [Course at KhanAcademy](https://www.khanacademy.org/math/statistics-probability) <br> [Limitations of CLT](https://stats.stackexchange.com/questions/61798/example-of-distribution-where-large-sample-size-is-necessary-for-central-limit-t/61849#61849) <br> [CI and hypotheses](http://www.mit.edu/~6.s085/notes/lecture2.pdf) |||
 |3-4| [Bayesian approach to A/B testing](./lectures/L03_bayes.ipynb) | [Conjugate Priors](https://www.cs.ubc.ca/labs/lci/mlrg/slides/Conjugate.pdf) <br> [Course at Udemy](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing)  |  [homework1](./homeworks/hypoth_hw1.ipynb) ||
 |5-6| Homework 1 and test 1|  |  [hw1_results](./homeworks/hw1/hw1_results.md) | [test1_results](./homeworks/test1/test1_results.md) |
-|7| [Other approaches to model selection](./lectures/L04_metrics_scoring.ipynb) | | | |
-|8| [Hypothesis representation: structures]()| | | |
-|9| | | | | 
+|7| [Other approaches to model selection](./lectures/L04_metrics_scoring.ipynb) | | [hw1_results](./homeworks/hw2/hw2_results.md) | |
+|8| [Hypothesis representation: structures](./lectures/L05_hypothesis_repr.ipynb)| [Video lecture part 1](./supplementary/video1820715075.mp4) <br> [Video lecture part 2](./supplementary/video1943057871.mp4)  | | |
+|9| [Hypothesis representation: structures](./lectures/L05_hypothesis_repr.ipynb) | | | | 
 |Exam| [Questions](./lectures/questions.md) | | | |
